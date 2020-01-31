@@ -1,7 +1,7 @@
 package by.my.study.ducks.classes;
 
-import by.my.study.ducks.interfaces.realisations.FlyWithWings;
-import by.my.study.ducks.interfaces.realisations.Quack;
+import by.my.study.ducks.interfaces.realisations.fly.FlyWithWings;
+import by.my.study.ducks.interfaces.realisations.quack.Quack;
 
 public class MallardDuck extends Duck{
     public MallardDuck() {

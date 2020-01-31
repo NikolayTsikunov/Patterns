@@ -1,4 +1,4 @@
-package by.my.study.ducks.interfaces.realisations;
+package by.my.study.ducks.interfaces.realisations.fly;
 
 import by.my.study.ducks.interfaces.FlyBehavior;
 

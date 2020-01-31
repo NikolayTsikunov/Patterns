@@ -1,4 +1,4 @@
-package by.my.study.ducks.interfaces.realisations;
+package by.my.study.ducks.interfaces.realisations.quack;
 
 import by.my.study.ducks.interfaces.QuackBehavior;
 
