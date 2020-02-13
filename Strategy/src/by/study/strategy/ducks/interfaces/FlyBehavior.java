@@ -1,4 +1,4 @@
-package by.my.study.ducks.interfaces;
+package by.my.study.strategy.interfaces;
 
 public interface FlyBehavior {
     public void fly();

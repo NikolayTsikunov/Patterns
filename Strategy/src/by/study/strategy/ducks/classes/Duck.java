@@ -1,7 +1,7 @@
-package by.my.study.ducks.classes;
+package by.my.study.strategy.classes;
 
-import by.my.study.ducks.interfaces.FlyBehavior;
-import by.my.study.ducks.interfaces.QuackBehavior;
+import by.my.study.strategy.interfaces.FlyBehavior;
+import by.my.study.strategy.interfaces.QuackBehavior;
 
 public abstract class Duck {
 
@@ -28,6 +28,6 @@ public abstract class Duck {
     }
 
     public void swim() {
-        System.out.println("All ducks float, even decoys!");
+        System.out.println("All strategy float, even decoys!");
     }
 }

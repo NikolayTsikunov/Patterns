@@ -1,6 +1,6 @@
-package by.my.study.ducks.interfaces.realisations.fly;
+package by.my.study.strategy.interfaces.realisations.fly;
 
-import by.my.study.ducks.interfaces.FlyBehavior;
+import by.my.study.strategy.interfaces.FlyBehavior;
 
 public class FlyRocket implements FlyBehavior {
     public void fly() {

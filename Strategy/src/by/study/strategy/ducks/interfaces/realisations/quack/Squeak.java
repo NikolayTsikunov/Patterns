@@ -1,6 +1,6 @@
-package by.my.study.ducks.interfaces.realisations.quack;
+package by.my.study.strategy.interfaces.realisations.quack;
 
-import by.my.study.ducks.interfaces.QuackBehavior;
+import by.my.study.strategy.interfaces.QuackBehavior;
 
 public class Squeak implements QuackBehavior {
     public void quack() {
